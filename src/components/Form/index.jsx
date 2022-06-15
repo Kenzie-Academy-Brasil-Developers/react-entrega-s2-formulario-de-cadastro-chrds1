@@ -70,7 +70,7 @@ export const Form = () =>{
                     <span className="error">{errors.confirmPassword.message}</span>
                     )
                 }
-            <button type="submit">Login</button>
+            <button type="submit">CADASTRAR</button>
         </StyleForm>
     )
 

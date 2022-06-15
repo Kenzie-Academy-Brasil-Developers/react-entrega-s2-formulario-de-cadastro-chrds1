@@ -28,7 +28,7 @@ export const StyleForm = styled.form`
         border-radius: 0.5rem;
         background-image: linear-gradient(to right, darkblue, purple, deeppink);
         color: white;
-        font-size: 1rem;
+        font-size: .875rem;
         font-weight: 600;
         cursor: pointer;
     }
